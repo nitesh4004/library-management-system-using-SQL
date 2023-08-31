@@ -3,10 +3,6 @@
 
 ##### A Database Management System Course Project containing all the features, SQL scripts, and options to serve as a DBMS for State Town Library 🚀
  
-
-### Project Members:
-<ul><li><a href="https://github.com/Fashad-Ahmed">Fashad Ahmed Siddique</a></li><li><a href="https://github.com/hunter10471">Syed Rafay Zia</a></li><li>Hassan Sadiq</li></ul>
-
 ### Introduction:
 Our system is based on library management and book-keeping system. This project “Library Management System” contains data relevant to the books present in the library, which can be lent to the customers and details maintained by the staff. Along with the management of the system, we are also maintaining the records of issue statuses and publishers of the books.
 
@@ -66,4 +62,4 @@ The goal of the venture is to give ease in plausibility to both staff and client
 
 ### NOTE:
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues) </br>
-The brief description of Project is presented in Project Report ```.pdf``` and Visually aided in ```.ppt```
+
